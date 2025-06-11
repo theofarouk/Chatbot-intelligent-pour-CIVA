@@ -1,0 +1,9 @@
+llama-index
+openai
+neo4j
+pdfplumber
+streamlit
+tqdm
+python-dotenv
+requests
+sentence-transformers

@@ -1,0 +1,23 @@
+Entités:
+Technologie:véhicule autonome
+Organisation:MACIF
+Personne:Édouard Philippe
+Personne:Jean-Philippe Dogneton
+Rôle:Premier ministre
+Rôle:Directeur général
+Lieu:Europe
+Lieu:France
+Lieu:Zones périurbaines
+Lieu:Zones rurales
+
+Relations:
+véhicule autonome -> [est considéré comme] -> objet de luxe
+MACIF -> [est ambition] -> émergence du véhicule autonome
+MACIF -> [vise à] -> favoriser l'émergence d'une mobilité plus durable
+MACIF -> [vise à] -> offrir une nouvelle solution de mobilité à ceux qui en sont dépourvus
+MACIF -> [est à l'origine de] -> investissements déployés autour de la technologie
+Édouard Philippe -> [a identifié] -> véhicule autonome (comme un « des rêves les plus fous »)
+Édouard Philippe -> [était] -> Premier ministre
+Jean-Philippe Dogneton -> [est] -> Directeur général de la MACIF
+Europe -> [est] -> lieu de promesses d'accessibilité, d'inclusivité et de durabilité
+France -> [est] -> lieu de promesses d'accessibilité, d'inclusivité et de durabilité
